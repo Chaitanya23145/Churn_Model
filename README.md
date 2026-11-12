@@ -2,19 +2,19 @@
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://churnmodel-chaitanya.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://churnmodel-l6spp25exxpkn2f43dxflw.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 
 An **end-to-end, production-ready Machine Learning system** designed to predict customer churn in subscription-based businesses such as **Telecom, SaaS, and Banking**.
 
-[🚀 **Access Live Web Application**](https://churnmodel-chaitanya.streamlit.app/)
+[🚀 **Access Live Web Application**](https://churnmodel-l6spp25exxpkn2f43dxflw.streamlit.app/)
 
 ---
 
 ### 🖥️ Application Preview
 
-<a href="https://churnmodel-chaitanya.streamlit.app/">
+<a href="https://churnmodel-l6spp25exxpkn2f43dxflw.streamlit.app/">
   <img src="assets/app_preview.png" alt="Customer Churn Prediction Web App Preview" width="100%"/>
 </a>
 
@@ -26,7 +26,7 @@ An **end-to-end, production-ready Machine Learning system** designed to predict 
 
 ## 🔗 Live Application Link
 
-> 🌐 **Live Web App:** [https://churnmodel-chaitanya.streamlit.app/](https://churnmodel-chaitanya.streamlit.app/)
+> 🌐 **Live Web App:** [https://churnmodel-l6spp25exxpkn2f43dxflw.streamlit.app/](https://churnmodel-l6spp25exxpkn2f43dxflw.streamlit.app/)
 
 Click the link above to access the live app, adjust customer profile parameters, predict churn risk probabilities in real-time, and view tailored business retention recommendations.
 
@@ -171,5 +171,5 @@ The application will launch locally at `http://localhost:8501`.
 
 **Chaitanya Upadhyay**  
 *Aspiring Machine Learning Engineer*  
-- 🌐 **Live Application:** [https://churnmodel-chaitanya.streamlit.app/](https://churnmodel-chaitanya.streamlit.app/)
+- 🌐 **Live Application:** [https://churnmodel-l6spp25exxpkn2f43dxflw.streamlit.app/](https://churnmodel-l6spp25exxpkn2f43dxflw.streamlit.app/)
 - 💻 **GitHub:** [@Chaitanya23145](https://github.com/Chaitanya23145)
